@@ -20,4 +20,5 @@ md
 | Проект | Стек | Ссылка |
 |---|---|---|
 | Todo App | React, TS | ... |
-<img scr= "https://drive.google.com/file/d/1SOyXP38SslMk6w-up27Uj1obmtPH6A6x/view?usp=sharing">
+<img scr= "/home/kab303/Загрузки/IMG_20260914_140656_809.jpg">
+

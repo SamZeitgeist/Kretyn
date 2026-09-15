@@ -2,7 +2,7 @@ md
 # Привет, я Вика 👋
 ### Веб-разработчик
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Милиардер+%2F+Плейбой;Филантроп)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Кофе+баба;Милиардер+%2F+Плейбой;Филантроп)
 
 - 🔭 Сейчас делаю сайт
 - 🌱 Учу делать сальто 
@@ -20,3 +20,4 @@ md
 | Проект | Стек | Ссылка |
 |---|---|---|
 | Todo App | React, TS | ... |
+<img scr= "https://drive.google.com/file/d/1SOyXP38SslMk6w-up27Uj1obmtPH6A6x/view?usp=sharing">
